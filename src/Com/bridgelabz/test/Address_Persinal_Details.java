@@ -1,4 +1,4 @@
-package Com.bridgelabz.address;
+package Com.bridgelabz.test;
 
 public class Address_Persinal_Details {
 		private	String firstName;
